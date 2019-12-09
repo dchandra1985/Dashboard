@@ -1,0 +1,40 @@
+.indicator-box {
+    vertical-align: top;
+    display: inline-block;
+    font-family: sans-serif;
+    color: #303030;
+    padding: 0%;
+    margin: 0%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    border: solid 2px #dddddd;
+}
+
+.divBorder{
+ border: 2px solid black;
+}
+
+
+
+
+.kKWoYf {
+    color: #303030 !important;
+}
+
+.banner {
+    height: 75px;
+    margin: 0px -10px 10px;
+    background-color: rgb(122, 129, 178);
+    border-radius: 2px;
+    border: solid 2px #7A81B2;
+}
+
+
+.banner Img{
+    position: relative;
+    right: 10px;
+    height: 60px;
+    margin-left:1.5%;
+    padding : 0.5%;
+}
