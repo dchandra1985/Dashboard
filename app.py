@@ -135,6 +135,11 @@ app.layout = html.Div(id='app-content', children=[
         ], className='four columns'),
 
     ], className="row"),
+    
+        html.Label("© 2019-2020 Dinesh Chandrasekaran. All Rights Reserved.",
+               style={"position": "absolute",
+                "bottom": "0",
+                "left": "0"})
 
 ])
 
