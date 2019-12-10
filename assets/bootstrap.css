@@ -24,17 +24,19 @@
 
 .banner {
     height: 75px;
+    width: auto;
     margin: 0px -10px 10px;
     background-color: rgb(122, 129, 178);
     border-radius: 2px;
+    max-width : 100 %;
     border: solid 2px #7A81B2;
 }
 
-
 .banner Img{
     position: relative;
-    right: 10px;
-    height: 60px;
-    margin-left:1.5%;
+    height: 65px;
     padding : 0.5%;
 }
+
+
+
